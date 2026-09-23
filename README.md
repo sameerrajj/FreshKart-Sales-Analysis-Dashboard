@@ -128,8 +128,11 @@ These were merged, cleaned, and feature-engineered into a single analysis-ready 
 
 ## 👤 Author
 
-**[Sameer raj]**
-[LinkedIn](https://www.linkedin.com/in/sameerrajj/) • [Gmail](mailto:sameer.raj3187@gmail.com)
+**Sameer Raj**
+
+[GitHub](https://github.com/sameerrajj) •
+[LinkedIn](https://www.linkedin.com/in/sameerrajj) •
+[Gmail](mailto:sameer.raj3187@gmail.com)
 
 ---
 
