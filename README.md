@@ -95,7 +95,7 @@ These were merged, cleaned, and feature-engineered into a single analysis-ready 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/freshkart-sales-analysis.git
+   git clone https://github.com/sameerrajj/FreshKart-Sales-Analysis-Dashboard
    cd freshkart-sales-analysis
    ```
 2. Install dependencies:
